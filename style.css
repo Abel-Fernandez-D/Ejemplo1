@@ -1,4 +1,17 @@
 html{
     background-color: beige;
     color: #000;
+    font-family: sans-serif;
+}
+
+a{
+    color: orange;
+}
+
+a:hover{
+    color: orangered;
+}
+
+img{
+    max-width: 100%;
 }

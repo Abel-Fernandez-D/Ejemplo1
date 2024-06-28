@@ -1,0 +1,34 @@
+* ee9079f Agregando 2 párrafos
+*   32d7f51 Estableciendo tiempos de comida y tipos de platos correspondientes
+|\  
+| * 7d17071 Definiendo tiempos de comida
+* | 0513705 Definición de tiempos de comida y tipos de platos por cada uno
+|/  
+*   e63d79b Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 9d3bccb Agregando index.js al index.html
+* | 0610be7 Agregando style.css al index.html
+* |   4b199a0 Merge branch 'js'
+|\ \  
+| * | b035fdb Creación de index.js
+* | |   16fa15a Merge de la rama secundaria css para unificación local
+|\ \ \  
+| * | | 6c7013e Creación de style.css
+* | | |   33cd2a2 Merge branch 'html'
+|\ \ \ \  
+| |_|/ /  
+|/| | /   
+| | |/    
+| |/|     
+| * | 1814302 Descripción geográfica de platillos
+| * | 75bc3b0 Creación de índice html
+| |/  
+* | ada3814 Actualización en descripción del repositorio principal
+* | 2f62b8e Limpieza de html y css para reformulación de ramas secundarias
+* | 37feb21 Definición de html y css
+|/  
+* 86b65ca Precisiones en la descripción del repositorio
+* 2a2bf87 Correción por el README.md local
+* 54231f6 Descripción del repositorio
+* 2c80396 Primer commit
+* 4a6a432 Initial commit

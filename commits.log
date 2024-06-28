@@ -1,0 +1,136 @@
+commit ee9079f361e4f578c69b4a47fa9ff5f460472e3e
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 22:54:04 2024 -0500
+
+    Agregando 2 párrafos
+
+commit 32d7f5154c489e4419baf2ef602bfd17f9bfcc0d
+Merge: 0513705 7d17071
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 21:49:28 2024 -0500
+
+    Estableciendo tiempos de comida y tipos de platos correspondientes
+
+commit 05137052b3c37059327646347ff4fc9aabe818a6
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 21:23:32 2024 -0500
+
+    Definición de tiempos de comida y tipos de platos por cada uno
+
+commit 7d17071b0cd88e72a818a8fafb231edfcf0bdf25
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 21:23:32 2024 -0500
+
+    Definiendo tiempos de comida
+
+commit e63d79b768545019423c9a233ea90bafa5406061
+Merge: 0610be7 9d3bccb
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 20:37:19 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 9d3bccbe1427ac7e678e26e8865454c011a73d31
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 20:21:59 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 0610be70fcf5cdb5ff96487ebf58b1e035dd18a9
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 20:16:03 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 4b199a0bb31576e65e4b4104d80dfe35ef1fb854
+Merge: 16fa15a b035fdb
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 19:13:28 2024 -0500
+
+    Merge branch 'js'
+
+commit 16fa15a1c19f93827ee548854c3d250b98ef3fb1
+Merge: 33cd2a2 6c7013e
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 18:51:36 2024 -0500
+
+    Merge de la rama secundaria css para unificación local
+
+commit 33cd2a2aab43e0c2db2115a2d38d7bc4b724346e
+Merge: ada3814 1814302
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 18:49:28 2024 -0500
+
+    Merge branch 'html'
+
+commit b035fdbe024e1056e00e021ce92cd3dca9e76c8a
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 18:29:02 2024 -0500
+
+    Creación de index.js
+
+commit 6c7013e1ba9a57ff67d5f74847e350384df53430
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 18:21:58 2024 -0500
+
+    Creación de style.css
+
+commit 18143021a20a9039ddc62a2bd5a3b21688d47248
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 17:35:13 2024 -0500
+
+    Descripción geográfica de platillos
+
+commit ada3814e6c5b3003d2d1bdc06ccc587462c5a543
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 16:24:49 2024 -0500
+
+    Actualización en descripción del repositorio principal
+
+commit 75bc3b0dc16bf2fcb21c0b6d1cd9d5cc6f5fd9b1
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 02:44:51 2024 -0500
+
+    Creación de índice html
+
+commit 2f62b8efe5c54c1364ca6bc12dd7b5dfb072aea7
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 02:37:47 2024 -0500
+
+    Limpieza de html y css para reformulación de ramas secundarias
+
+commit 37feb21444e15f31ddc4ba8ada5d6c759f5e8653
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Thu Jun 27 02:30:53 2024 -0500
+
+    Definición de html y css
+
+commit 86b65cab2e3f3d8e2e9d5d3b66f03c511f029ecb
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Wed Jun 26 00:54:03 2024 -0500
+
+    Precisiones en la descripción del repositorio
+
+commit 2a2bf87ca726e93b18821080520791973052093e
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Wed Jun 26 18:22:32 2024 -0500
+
+    Correción por el README.md local
+
+commit 54231f60f9def5259465ee365e3a428e58fd6927
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Wed Jun 26 00:47:53 2024 -0500
+
+    Descripción del repositorio
+
+commit 2c80396fee7bad397c706ee13c251d325a3bca2a
+Author: Abel Fernandez Delgado <abelfd1@gmail.com>
+Date:   Wed Jun 26 00:21:50 2024 -0500
+
+    Primer commit
+
+commit 4a6a4327fbaecac158fc213a06bd7429af808f77
+Author: Abel-Fernandez-D <153469293+Abel-Fernandez-D@users.noreply.github.com>
+Date:   Sun Dec 10 21:24:35 2023 -0500
+
+    Initial commit

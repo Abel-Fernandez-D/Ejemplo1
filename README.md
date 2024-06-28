@@ -6,3 +6,5 @@ En este directorio se detallan los ingredientes y pasos a seguir para preparar p
 
 ## Autor: Abel F.
 
+(Commit para oficializar versión **1.0.0**)
+

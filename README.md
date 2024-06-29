@@ -8,3 +8,4 @@ En este directorio se detallan los ingredientes y pasos a seguir para preparar p
 
 (Commit para oficializar la versión **1.0.0**)
 
+Actualizado.

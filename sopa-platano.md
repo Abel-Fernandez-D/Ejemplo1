@@ -24,7 +24,7 @@ Sopa espesa que no se corta y se sirve acompañada de arroz blanco y cancha. Las
 7. Añadir el **grupo 2** de condimentos a gusto y la hojas del culantro floreado.
 8. Remover periódicamente controlando la consistencia de la sopa. También se puede corregir la sal.
 9. Servir desde el fondo de la olla.
-<br>
+
 ## Observaciones:
 - Las **patas de pollo** pueden agregarse luego de la primera ralladura de plátano si se desea conservar mejor la consistencia de la pata.
 - El **culantro** puede añadirse con las ramas, pero se recomienda retirar antes de servir y añadir culantro picado para la presentación.
